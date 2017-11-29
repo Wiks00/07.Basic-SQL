@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2009
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Northwind", "Task7\Northwind.sqlproj", "{520A3745-A49B-4D31-B45E-809D59D50258}"
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Northwind", "Northwind\Northwind.sqlproj", "{520A3745-A49B-4D31-B45E-809D59D50258}"
 EndProject
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Northwind1.3", "Northwind1.3\Northwind1.3.sqlproj", "{25E507E5-6A6C-45F4-B287-C864F81E57BA}"
 EndProject
